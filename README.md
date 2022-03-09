@@ -4,7 +4,7 @@
 <h3 align="center">Un développeur back-end</h3>
 - 🔭 J'ai travaillé sur un projet de site pour ma fin de formation sur la partie back du site [Mug Overflow visible sur le lien]https://github.com/guillouerwan/mugoverflow-back 
 
-- 💬 Présentation **Passionné d'informatique, initialement formé à un bac pro MRIM (Micro-informatique et Réseau, installation et maintenance) puis 15 ans d'expériences professionnelles variées (agent administratif dans l'administration publique, facteur, monteur, agent de tri textile...), j'ai choisi de revenir dans le domaine numérique en suivant une formation certifiante de Développeur Web et Web Mobile avec l'Ecole O'clock, formation certifiée Grande École du Numérique que j'ai commencé fin Août 2021. 
+- 💬 Passionné d'informatique, initialement formé à un bac pro MRIM (Micro-informatique et Réseau, installation et maintenance) puis 15 ans d'expériences professionnelles variées (agent administratif dans l'administration publique, facteur, monteur, agent de tri textile...), j'ai choisi de revenir dans le domaine numérique en suivant une formation certifiante de Développeur Web et Web Mobile avec l'Ecole O'clock, formation certifiée Grande École du Numérique que j'ai commencé fin Août 2021. 
 - 
 - Après 6 mois intensifs (cursus PHP spécialisé en Symfony), je suis à la recherche d'un stage de 2 à 6 mois à partir d'Avril 2022, pour mettre en pratique mes compétences techniques et en apprendre encore plus dans un contexte professionnel.**
 
